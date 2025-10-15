@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:intervw_niveosys/model/product_model.dart';
-import 'package:intervw_niveosys/provider/api_services.dart';
 
 class ProductListPage extends StatefulWidget {
   const ProductListPage({super.key});

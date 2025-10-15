@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:intervw_niveosys/model/product_model.dart';
-import 'package:intervw_niveosys/provider/api_services.dart';
+import 'package:intervw_niveosys/provider/api_services_provider/api_services.dart';
 import 'package:intervw_niveosys/view/product_page.dart';
 
 class HomePage extends StatefulWidget {
